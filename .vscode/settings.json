@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "soft_spi_config.h": "c",
+        "sd_driver.h": "c"
+    }
+}
